@@ -11,6 +11,11 @@ description: Web Developer from Somewhere
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
+collections:
+  posts:
+    output: true
+  projects:
+    outputs: true
 #
 # Flags below are optional
 #
