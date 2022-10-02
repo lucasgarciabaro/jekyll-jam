@@ -1,2 +1,1 @@
-# Jekyll JAM Test
-Try again
+# Jekyll JAM Project
