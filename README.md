@@ -1,1 +1,1 @@
-# Jekyll JAM Project
+# Jekyll JAM Site
