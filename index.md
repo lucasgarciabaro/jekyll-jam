@@ -3,4 +3,4 @@
 ![jekyll-logo]({{ site.baseurl }}/assets/images/jekyll-logo.png)
 
 [About me](/about)
-[My Posts](/Hello-World)
+[My first post](/Hello-World)
