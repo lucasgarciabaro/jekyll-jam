@@ -2,5 +2,7 @@
 
 ![jekyll-logo]({{ site.baseurl }}/assets/images/jekyll-logo.png)
 
-[About me](/about)
-[My first post](/Hello-World)
+## Index of my page
+* [About me](/about)
+* [My blog](/blog)
+* [My Project](/projects/test)
