@@ -1,9 +1,9 @@
 Some information about you!
 
-### More Information
+## More Information
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+## Contact me
 
 [lucas@codeccoop.org](mailto:lucas@codeccoop.org)
