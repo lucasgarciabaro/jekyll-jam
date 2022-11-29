@@ -1,2 +1,2 @@
 # My second project
-Lorem ipsum sit amet
+Lorem ipsum sit amer
