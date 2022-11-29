@@ -3,5 +3,6 @@ I'm am working on a Jekyll editor. Maybe it will be named Jekyll JAM or somthing
 
 ## Heading 2
 ### Heading 3
+#### Heading 4
 
 [Back to home]({{ site.baseurl }}/)
