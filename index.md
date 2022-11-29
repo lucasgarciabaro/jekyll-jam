@@ -6,3 +6,4 @@
 * [About me]({{ site.baseurl }}/about)
 * [My blog]({{ site.baseurl }}/blog)
 * [My project]({{ site.baseurl }}/projects/test)
+* [My second project]({{ site.baseurl }}/projects/test2.html)
