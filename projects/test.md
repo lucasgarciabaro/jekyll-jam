@@ -6,6 +6,10 @@ I'm am working on a Jekyll editor. Maybe it will be named Jekyll JAM or somthing
 #### Heading 4
 ##### Heading 5
 
-<CustomVideo url="https://ia801402.us.archive.org/5/items/mairimashita-iruma-kun-3rd-season-episode/Mairimashita%21%20Iruma-kun%203rd%20Season%20Episode%207%20-%20AnimeDao.ia.mp4" width="500" height=""/>
+<CustomVideo
+  url="https://archive.org/download/mairimashita-iruma-kun-3rd-season-episode/Mairimashita%21%20Iruma-kun%203rd%20Season%20Episode%207%20-%20AnimeDao.mp4"
+  width="500"
+  height=""
+></CustomVideo>
 
 [Back to home]({{ site.baseurl }}/)
