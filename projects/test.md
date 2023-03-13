@@ -1,48 +1,8 @@
 # Page title
 Page subtitle
-<!-- vocero-block="116d975b-ba3a-4337-91e8-e565f995f814"
 
+<!-- vocero-block="721451c3-8c24-4b35-9863-1b26b194d51f" PENvbHVtbnM+CjxDb2x1bW4gZ3V0dGVyPSI1cHgiPgo8Q3VzdG9tVmlkZW8KICBzcmM9Imh0dHBzOi8vYXJjaGl2ZS5vcmcvZG93bmxvYWQvZG4yMDIzLTAzMTBfdmlkL2RuMjAyMy0wMzEwX3ZpZC5IRC5tcDQiCiAgd2lkdGg9IjEwMCUiCj48L0N1c3RvbVZpZGVvPgogICBfdmlkZW8gY29tbWVudF8KPiBBbmQgYSAqKmNpdGUqKgoqIEl0ZW0gMQogICogSXRlbSAxLjEKKiBJdGVtIDIKPC9Db2x1bW4+CjxDb2x1bW4gZ3V0dGVyPSI1cHgiPgo8Q29sdW1ucz4KPENvbHVtbiBndXR0ZXI9IjVweCI+CjxDb2x1bW5zPgo8Q29sdW1uIGd1dHRlcj0iNXB4Ij4KIyMjIFZpZGVvCjwvQ29sdW1uPgo8Q29sdW1uIGd1dHRlcj0iNXB4Ij4KIyMjIGRlc2NyaXB0aW9uCjwvQ29sdW1uPgo8L0NvbHVtbnM+CjwvQ29sdW1uPgo8Q29sdW1uIGd1dHRlcj0iNXB4Ij4KPENvbHVtbnM+CjxDb2x1bW4gZ3V0dGVyPSI1cHgiPgpMb3JlbSBpcHN1bQo8L0NvbHVtbj4KPENvbHVtbiBndXR0ZXI9IjVweCI+CnNpdCBhbWVyCjwvQ29sdW1uPgo8L0NvbHVtbnM+CjwvQ29sdW1uPgo8L0NvbHVtbnM+CjwvQ29sdW1uPgo8L0NvbHVtbnM+ -->
 
-
-<Columns>
-<Column gutter="5px">
-<CustomVideo
-  src="https://archive.org/download/dn2023-0310_vid/dn2023-0310_vid.HD.mp4"
-  width="100%"
-></CustomVideo>
-   _video comment_
-> And a **cite**
-* Item 1
-  * Item 1.1
-* Item 2
-</Column>
-<Column gutter="5px">
-<Columns>
-<Column gutter="5px">
-<Columns>
-<Column gutter="5px">
-### Video
-</Column>
-<Column gutter="5px">
-### description
-</Column>
-</Columns>
-</Column>
-<Column gutter="5px">
-<Columns>
-<Column gutter="5px">
-Lorem ipsum
-</Column>
-<Column gutter="5px">
-sit amer
-</Column>
-</Columns>
-</Column>
-</Columns>
-</Column>
-</Columns>
-
--->
 <div class="columns" style="display: flex">
 <div class="column" style="flex: 1; padding: 5px">
 <video src="https://archive.org/download/dn2023-0310_vid/dn2023-0310_vid.HD.mp4" style="width: 100%; height: auto;"></video>
@@ -96,19 +56,16 @@ sit amer
 
 </div>
 
-<!-- /vocero-block="116d975b-ba3a-4337-91e8-e565f995f814" -->
 
-<!-- vocero-block="6ff3a3f8-86d3-4f41-99c7-0886e48c50e1"
-<CustomVideo
-  src="https://archive.org/download/dn2023-0310_vid/dn2023-0310_vid.HD.mp4"
-  width="100%"
-  height=""
-></CustomVideo>
+<!-- /vocero-block="721451c3-8c24-4b35-9863-1b26b194d51f" -->
 
 
 
--->
+<!-- vocero-block="482d99ac-f662-488d-978e-c9f8f8f95a17" PEN1c3RvbVZpZGVvCiAgc3JjPSJodHRwczovL2FyY2hpdmUub3JnL2Rvd25sb2FkL2RuMjAyMy0wMzEwX3ZpZC9kbjIwMjMtMDMxMF92aWQuSEQubXA0IgogIHdpZHRoPSIxMDAlIgogIGhlaWdodD0iIgo+PC9DdXN0b21WaWRlbz4= -->
+
 <video src="https://archive.org/download/dn2023-0310_vid/dn2023-0310_vid.HD.mp4" style="width: 100%; height: auto;"></video>
 
-<!-- /vocero-block="6ff3a3f8-86d3-4f41-99c7-0886e48c50e1" -->
+
+<!-- /vocero-block="482d99ac-f662-488d-978e-c9f8f8f95a17" -->
+
 ## Footer
