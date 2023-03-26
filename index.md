@@ -1,9 +1,9 @@
-# Welcome to my life!
+# Welcome to my page!
 
-![jekyll-logo]({{ site.baseurl }}/assets/images/jekyll-logo.png)
+![jekyll-logo](/assets/images/jekyll-logo.png)
 
 ## Index of my page
-* [About me]({{ site.baseurl }}/about)
-* [My blog]({{ site.baseurl }}/blog)
-* [My project]({{ site.baseurl }}/projects/test)
+* [About me](/about)
+* [My blog](/blog)
+* [My project](/projects/test)
 * [My second project]({{ site.baseurl }}/projects/test2)
